@@ -1,0 +1,233 @@
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.5.11)  19 APR 2020 23:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**newcomer_task.tex
+(./newcomer_task.tex
+pLaTeX2e <2019-04-06> (based on LaTeX2e <2018-12-01>)
+(c:/texlive/2019/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2019/04/02 v1.8b Standard pLaTeX class
+\c@@paper=\count83
+(c:/texlive/2019/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2019/04/02 v1.8b Standard pLaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(c:/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count93
+\multirow@dima=\skip44
+\bigstrutjot=\dimen123
+)
+(./newcomer_task.aux)
+\openout1 = `newcomer_task.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+ (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 23.
+File: ../1_BasicImageProcessing/output/output_0.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/output_0.jpg>
+File: ../1_BasicImageProcessing/output/output_1.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/output_1.jpg>
+File: ../1_BasicImageProcessing/data/LysGracieux_Arima.jpg Graphic file (type b
+mp)
+<../1_BasicImageProcessing/data/LysGracieux_Arima.jpg>
+
+[1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 54.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 54.
+File: ../1_BasicImageProcessing/output/img.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/img.jpg>
+File: ../1_BasicImageProcessing/output/half_scal.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/half_scal.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 75.
+File: ../1_BasicImageProcessing/output/double_scal.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/double_scal.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 68--84
+[][]$[]$[] []$[]$[] 
+ []
+
+[2]
+File: ../1_BasicImageProcessing/output/rot_45.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/rot_45.jpg>
+File: ../1_BasicImageProcessing/output/rot_60.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/rot_60.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 89--105
+[][]$[]$[] []$[]$[] 
+ []
+
+[3]
+File: ../1_BasicImageProcessing/output/img2.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/img2.jpg>
+File: ../1_BasicImageProcessing/output/diff_img.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/diff_img.jpg>
+ [4]
+File: ../1_BasicImageProcessing/output/sea.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/sea.jpg>
+File: ../1_BasicImageProcessing/output/sakura.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/sakura.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 144--160
+[][]$[]$[] []$[]$[] 
+ []
+
+File: ../1_BasicImageProcessing/output/sea_hist.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/sea_hist.jpg>
+File: ../1_BasicImageProcessing/output/sakura_hist.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/sakura_hist.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 163--177
+[][]$[]$[] []$[]$[] 
+ []
+
+File: ../1_BasicImageProcessing/output/tomato.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/tomato.jpg>
+File: ../1_BasicImageProcessing/output/cucumber.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/cucumber.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 185--201
+[][]$[]$[] []$[]$[] 
+ []
+
+File: ../1_BasicImageProcessing/output/tomato_surf.jpg Graphic file (type bmp)
+<../1_BasicImageProcessing/output/tomato_surf.jpg>
+File: ../1_BasicImageProcessing/output/cucumber_surf.jpg Graphic file (type bmp
+)
+<../1_BasicImageProcessing/output/cucumber_surf.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 204--220
+[][]$[]$[] []$[]$[] 
+ []
+
+[5]
+File: ../2_MedicalImageClassification/Model/VGG16_acc.png Graphic file (type bm
+p)
+<../2_MedicalImageClassification/Model/VGG16_acc.png>
+File: ../2_MedicalImageClassification/Model/AlexNet_acc.png Graphic file (type 
+bmp)
+<../2_MedicalImageClassification/Model/AlexNet_acc.png>
+
+Overfull \hbox (14.06688pt too wide) in paragraph at lines 243--244
+\OT1/cmr/m/n/10.95 works(https://arxiv.org/pdf/1409.1556.pdf)\JY1/mc/m/n/10.95 
+， \OT1/cmr/m/n/10.95 Very Deep Con-vo-lu-tional Net-works for Large-
+ []
+
+[6]
+File: ../2_MedicalImageClassification/Dataset/1253.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/1253.jpg>
+File: ../2_MedicalImageClassification/Dataset/1662.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/1662.jpg>
+File: ../2_MedicalImageClassification/Dataset/2314.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/2314.jpg>
+File: ../2_MedicalImageClassification/Dataset/1319.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/1319.jpg>
+File: ../2_MedicalImageClassification/Dataset/1563.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/1563.jpg>
+File: ../2_MedicalImageClassification/Dataset/2006.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/2006.jpg>
+ [7]
+File: ../2_MedicalImageClassification/Dataset/8.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/8.jpg>
+File: ../2_MedicalImageClassification/Dataset/83.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/83.jpg>
+File: ../2_MedicalImageClassification/Dataset/106.jpg Graphic file (type bmp)
+<../2_MedicalImageClassification/Dataset/106.jpg>
+ [8]
+Overfull \hbox (1.04pt too wide) in paragraph at lines 365--367
+[]\OT1/cmr/m/n/10.95 level1\JY1/mc/m/n/10.95 ～\OT1/cmr/m/n/10.95 level4 \JY1/m
+c/m/n/10.95 どれも ， \OT1/cmr/m/n/10.95 DTW(Dynamic Time Warp-ing) \JY1/mc/m/n
+/10.95 を距離尺度とし ， \OT1/cmr/m/n/10.95 k-NN(k-Nearest
+ []
+
+[9] (./newcomer_task.aux) ) 
+Here is how much of TeX's memory you used:
+ 877 strings out of 493223
+ 13322 string characters out of 6147484
+ 77812 words of memory out of 5000000
+ 4875 multiletter control sequences out of 15000+600000
+ 15545 words of font info for 60 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,9n,21p,424b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on newcomer_task.dvi (9 pages, 19360 bytes).
